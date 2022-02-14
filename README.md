@@ -5,11 +5,13 @@
 #### predict model
 ## Description projet
 The purpose of the survey is to analyse the UFO's observations worldwide. Their shapes, their frequencies...  
-Then, more specifically in the USA, UK and Canada.  
+Then, specifically in the USA, UK and Canada.  
 We will study the impact of the weather on the appearances and create predict models.
 
-
 ## Installation
+
+<img align="right" width="600" height="600" src="https://user-images.githubusercontent.com/47240631/153925191-a172c8ae-c1ed-4dbd-b2a2-1e6b1b78cbb6.png">
+
 - language : `Python (version 3)`
 - [Installation Anaconda](https://www.anaconda.com/products/individual)
 - Packages :   
@@ -29,7 +31,7 @@ We will study the impact of the weather on the appearances and create predict mo
   - `yellowbrick`
   - `WordCloud`
   - `PIL`
-  
+
 ## Data files
 dataset :  https://www.kaggle.com/camnugent/ufo-sightings-around-the-world
 
